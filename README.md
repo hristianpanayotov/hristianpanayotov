@@ -8,5 +8,5 @@
 
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,cs,cpp,git" alt="Skill Icons" /><br />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,cs,cpp,lua" alt="Skill Icons" /><br />
 </div>
